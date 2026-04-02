@@ -77,10 +77,10 @@ This system helps HR teams by:
 
 ## 📷 Screenshots
 ### 🔹 n8n Workflow
-![Workflow](dashboard n8n.jpeg)
+![Workflow](workflow.png.jpeg)
 
 ### 🔹 Power BI Dashboard
-![Dashboard](dashboard n8n.jpeg)
+![Dashboard](dashboard.png.jpeg)
 
 ---
 
